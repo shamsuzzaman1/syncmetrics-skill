@@ -65,6 +65,21 @@ More: [88+ ready-made recipes](https://syncmetrics.io/docs/recipes/).
 - **Output standard** — tables + deltas + 3–5 ranked recommendations, with shareable
   dashboard / Sheets export as the closing step.
 
+## Also in this repo: Google Search Builder
+
+[`skills/syncmetrics-google-search-builder`](skills/syncmetrics-google-search-builder/SKILL.md)
+takes any business from a brief to running Google Search ads: keyword research with real
+volumes and bids, an affordability check against your target cost per result, a campaign
+plan (ad groups, exact/phrase keywords, responsive search ads, negatives, budgets), the
+build in your own Google Ads account — always **paused** — conversion tracking, and a
+weekly review that cuts wasted spend. Nothing is turned on until you say so.
+
+Install it the same way as the analyst skill (upload its `SKILL.md`, or copy the folder
+into your agent's skills directory), then try:
+
+> Plan Google Search ads for my furniture store in Dhaka with 30,000 BDT a month.
+> Show me the plan before you build anything.
+
 ## Links
 
 - Docs: https://syncmetrics.io/docs/skills/
